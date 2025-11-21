@@ -13,5 +13,5 @@
 void main(){
 
     // printf will help us to show/print the O/p
-    printf("Hello World!");
+    printf("Hello C Section Students!");
 }
